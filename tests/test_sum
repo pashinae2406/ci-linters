@@ -1,0 +1,5 @@
+from ci-linters.main import sum_two
+
+def test_sum(2, 3):
+    result = sum_two(2, 3)
+    assert 5 = result
